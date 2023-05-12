@@ -1,20 +1,21 @@
-"# git Template - git Message" 
-# Header del commit:
-Se agrega archivo README.md
+# git Template - git Message
 
-# Ación Tipo: (feature, fix, docs, style, refactor, test, chore)
-Tipo : docs 🗂️
+#Header del commit:
+# Se agrega archivo README.md
 
-# Descripción del commit
-Descripción : Se agregó el archivo README.md al repositorio remoto
+#Ación Tipo: (feature, fix, docs, style, refactor, test, chore)
+# Tipo : docs 🗂️
 
-# Problemas encontrados
-Problema : Ausencia de repositorio con template para git
+#Descripción del commit
+# Descripción : Se agregó el archivo README.md al repositorio remoto
 
-# Soluciones aplicadas
-Solución : Creación de un repositorio con template para git
+#Problemas encontrados
+# Problema : Ausencia de repositorio con template para git
 
-# Información adicional: 
+#Soluciones aplicadas
+# Solución : Creación de un repositorio con template para git
+
+#Información adicional: 
 - Ticket: #1
 - Requirente: Guillermo Vicente
 - Spring: #1  
@@ -22,5 +23,6 @@ Solución : Creación de un repositorio con template para git
 - Versión: 1.0.0
 - Estado: En desarrollo
 
-# Recursos utilizados
+#Recursos utilizados
+# Recursos:
 - Bootcamp Full Stack Engineer - EducacionIt - <https://www.educacionit.com/>
