@@ -1,21 +1,21 @@
-# git Template - git Message
+#### git Template - git Message
 
-#Header del commit:
-# Se agrega archivo README.md
+###### Header del commit:
+### style del README.md
 
-#Ación Tipo: (feature, fix, docs, style, refactor, test, chore)
-# Tipo : docs 🗂️
+###### Ación Tipo: (feature, fix, docs, style, refactor, test, chore)
+### Tipo : style ✒️
 
-#Descripción del commit
-# Descripción : Se agregó el archivo README.md al repositorio remoto
+###### Descripción del commit
+### Descripción : se mejora legibilidad de archivo README.md
 
-#Problemas encontrados
-# Problema : Ausencia de repositorio con template para git
+###### Problemas encontrados
+### Problema : legibilidad en archivo README.md
 
-#Soluciones aplicadas
-# Solución : Creación de un repositorio con template para git
+###### Soluciones aplicadas
+### Solución : mejora de markdown en archivo README.md
 
-#Información adicional: 
+###### Información adicional: 
 - Ticket: #1
 - Requirente: Guillermo Vicente
 - Spring: #1  
@@ -24,5 +24,9 @@
 - Estado: En desarrollo
 
 #Recursos utilizados
-# Recursos:
-- Bootcamp Full Stack Engineer - EducacionIt - <https://www.educacionit.com/>
+###### Recursos:
+
+| recurso | url |
+| ------- | --- |
+| Bootcamp | <https://www.educacionit.com/> |
+| Markdown | https://dillinger.io/ |
